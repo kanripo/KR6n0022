@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:55:46.665926
+#+DATE: 2015-08-30 20:55:47.665247
 #+TITLE: 唯識三十論頌
 #+PROPERTY: CBETA_ID T31n1586
 #+PROPERTY: ID KR6n0022
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1586
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@GONG
 #+PROPERTY: LASTPB <pb:KR6n0022_T_000-0060a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0022_T_001-0060a> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1586[No.1587;cf.No.1585]¶
-
- 唯識三十論頌¶
+No. 1586 [No. 1587; cf. No. 1585]¶
+唯識三十論頌¶
 ¶
 世親菩薩造¶
 大唐三藏法師玄奘奉　詔譯¶
@@ -28,10 +27,7 @@ No.1586[No.1587;cf.No.1585]¶
 答，頌曰：¶
 
 #+BEGIN_VERSE
-「:PROPERTIES:
-:head: 「１
-:END:
-
+「* 「１
 　由假說我法，
 　有種種相轉。¶
 　彼依識所變，
@@ -40,10 +36,7 @@ No.1586[No.1587;cf.No.1585]¶
 」¶
 
 #+BEGIN_VERSE
-「:PROPERTIES:
-:head: ２
-:END:
-
+「* ２
 　謂異熟、思量，
 　及了別境識。」
 #+END_VERSE
@@ -61,10 +54,7 @@ No.1586[No.1587;cf.No.1585]¶
 」¶
 
 #+BEGIN_VERSE
-「:PROPERTIES:
-:head: ３
-:END:
-
+「* ３
 　不可知執受，
 　處了常與觸、¶
 　作意、受、想、思，
@@ -73,13 +63,10 @@ No.1586[No.1587;cf.No.1585]¶
 」¶
 
 #+BEGIN_VERSE
-「:PROPERTIES:
-:head: ４
-:END:
-
+「* ４
 　是無覆無記，
 　觸等亦如是，¶
-　恒轉如瀑流，
+　恒轉如暴流，
 　阿羅漢位捨。」
 #+END_VERSE
 」¶
@@ -87,10 +74,7 @@ No.1586[No.1587;cf.No.1585]¶
 已說初能變，第二能變其相云何？頌曰：¶
 
 #+BEGIN_VERSE
-「:PROPERTIES:
-:head: 「５
-:END:
-
+「* 「５
 　次第二能變，
 　是識名末那，¶
 　依彼轉緣彼，
@@ -99,10 +83,7 @@ No.1586[No.1587;cf.No.1585]¶
 」¶
 
 #+BEGIN_VERSE
-「:PROPERTIES:
-:head: ６
-:END:
-
+「* ６
 　四煩惱常俱，
 　謂我癡、我見、¶
 　并我慢、我愛，
@@ -111,10 +92,7 @@ No.1586[No.1587;cf.No.1585]¶
 」¶
 
 #+BEGIN_VERSE
-「:PROPERTIES:
-:head: ７
-:END:
-
+「* ７
 　有覆無記攝，
 　隨所生所繫，¶
 　阿羅漢滅定，
@@ -126,10 +104,7 @@ No.1586[No.1587;cf.No.1585]¶
 曰：¶
 
 #+BEGIN_VERSE
-「:PROPERTIES:
-:head: 「８
-:END:
-
+「* 「８
 　次第三能變，
 　差別有六種，¶
 　了境為性相，
@@ -138,10 +113,7 @@ No.1586[No.1587;cf.No.1585]¶
 」¶
 
 #+BEGIN_VERSE
-「:PROPERTIES:
-:head: ９
-:END:
-
+「* ９
 　此心所遍行、
 　別境、善、煩惱、¶
 　隨煩惱、不定，
@@ -150,10 +122,7 @@ No.1586[No.1587;cf.No.1585]¶
 」¶
 
 #+BEGIN_VERSE
-「:PROPERTIES:
-:head: １０
-:END:
-
+「* １０
 　初遍行觸等，
 　次別境謂欲、¶
 　勝解、念、定、慧，
@@ -162,10 +131,7 @@ No.1586[No.1587;cf.No.1585]¶
 」¶
 
 #+BEGIN_VERSE
-「:PROPERTIES:
-:head: １１
-:END:
-
+「* １１
 　善謂信、慚、愧、
 　無貪等三根，¶
 　勤、安、不放逸、
@@ -174,10 +140,7 @@ No.1586[No.1587;cf.No.1585]¶
 」¶
 
 #+BEGIN_VERSE
-「:PROPERTIES:
-:head: １２
-:END:
-
+「* １２
 　煩惱謂貪、瞋、
 　癡、慢、疑、惡見。¶
 　隨煩惱謂忿、
@@ -186,23 +149,17 @@ No.1586[No.1587;cf.No.1585]¶
 」¶
 
 #+BEGIN_VERSE
-「:PROPERTIES:
-:head: １３
-:END:
-
+「* １３
 　誑、諂與害、憍、
 　無慚及無愧、¶
-　掉舉與惛沈、
+　掉舉與昏沈、
 　不信并懈怠、
 #+END_VERSE
 」
 <pb:KR6n0022_T_001-0060c>¶
 
 #+BEGIN_VERSE
-「:PROPERTIES:
-:head: １４
-:END:
-
+「* １４
 　放逸及失念、
 　散亂、不正知。¶
 　不定謂悔、眠，
@@ -214,10 +171,7 @@ No.1586[No.1587;cf.No.1585]¶
 曰：¶
 
 #+BEGIN_VERSE
-「:PROPERTIES:
-:head: 「１５
-:END:
-
+「* 「１５
 　依止根本識，
 　五識隨緣現，¶
 　或俱或不俱，
@@ -226,10 +180,7 @@ No.1586[No.1587;cf.No.1585]¶
 」¶
 
 #+BEGIN_VERSE
-「:PROPERTIES:
-:head: １６
-:END:
-
+「* １６
 　意識常現起，
 　除生無想天，¶
 　及無心二定，
@@ -243,10 +194,7 @@ No.1586[No.1587;cf.No.1585]¶
 一切唯有識耶？頌曰：¶
 
 #+BEGIN_VERSE
-「:PROPERTIES:
-:head: 「１７
-:END:
-
+「* 「１７
 　是諸識轉變，
 　分別、所分別，¶
 　由此彼皆無，
@@ -258,10 +206,7 @@ No.1586[No.1587;cf.No.1585]¶
 曰：¶
 
 #+BEGIN_VERSE
-「:PROPERTIES:
-:head: 「１８
-:END:
-
+「* 「１８
 　由一切種識，
 　如是如是變，¶
 　以展轉力故，
@@ -273,10 +218,7 @@ No.1586[No.1587;cf.No.1585]¶
 曰：¶
 
 #+BEGIN_VERSE
-「:PROPERTIES:
-:head: 「１９
-:END:
-
+「* 「１９
 　由諸業習氣、
 　二取習氣俱，¶
 　前異熟既盡，
@@ -288,10 +230,7 @@ No.1586[No.1587;cf.No.1585]¶
 知三性亦不離識，所以者何？頌曰：¶
 
 #+BEGIN_VERSE
-「:PROPERTIES:
-:head: 「２０
-:END:
-
+「* 「２０
 　由彼彼遍計，
 　遍計種種物，¶
 　此遍計所執，
@@ -300,10 +239,7 @@ No.1586[No.1587;cf.No.1585]¶
 」¶
 
 #+BEGIN_VERSE
-「:PROPERTIES:
-:head: ２１
-:END:
-
+「* ２１
 　依他起自性，
 　分別緣所生。¶
 　圓成實於彼，
@@ -312,10 +248,7 @@ No.1586[No.1587;cf.No.1585]¶
 」¶
 
 #+BEGIN_VERSE
-「:PROPERTIES:
-:head: ２２
-:END:
-
+「* ２２
 　故此與依他，
 　非異非不異，¶
 　如無常等性，
@@ -327,10 +260,7 @@ No.1586[No.1587;cf.No.1585]¶
 曰：¶
 
 #+BEGIN_VERSE
-「:PROPERTIES:
-:head: 「２３
-:END:
-
+「* 「２３
 　即依此三性，
 　立彼三無性，¶
 　故佛密意說，
@@ -339,10 +269,7 @@ No.1586[No.1587;cf.No.1585]¶
 」¶
 
 #+BEGIN_VERSE
-「:PROPERTIES:
-:head: ２４
-:END:
-
+「* ２４
 　初即相無性，
 　次無自然性，¶
 　後由遠離前，
@@ -351,10 +278,7 @@ No.1586[No.1587;cf.No.1585]¶
 」¶
 
 #+BEGIN_VERSE
-「:PROPERTIES:
-:head: ２５
-:END:
-
+「* ２５
 　此諸法勝義，
 　亦即是真如，¶
 　常如其性故，
@@ -372,10 +296,7 @@ No.1586[No.1587;cf.No.1585]¶
 解脫分，依識性、相能深信解。其相云何？頌曰：¶
 
 #+BEGIN_VERSE
-「:PROPERTIES:
-:head: 「２６
-:END:
-
+「* 「２６
 　乃至未起識，
 　求住唯識性，¶
 　於二取隨眠，
@@ -387,10 +308,7 @@ No.1586[No.1587;cf.No.1585]¶
 漸伏除所取、能取。其相云何？¶
 
 #+BEGIN_VERSE
-「:PROPERTIES:
-:head: 「２７
-:END:
-
+「* 「２７
 　現前立少物，
 　謂是唯識性，¶
 　以有所得故，
@@ -402,10 +320,7 @@ No.1586[No.1587;cf.No.1585]¶
 實通達。其相云何？¶
 
 #+BEGIN_VERSE
-「:PROPERTIES:
-:head: 「２８
-:END:
-
+「* 「２８
 　若時於所緣，
 　智都無所得，¶
 　爾時住唯識，
@@ -417,10 +332,7 @@ No.1586[No.1587;cf.No.1585]¶
 實見理，數數修習。其相云何？¶
 
 #+BEGIN_VERSE
-「:PROPERTIES:
-:head: 「２９
-:END:
-
+「* 「２９
 　無得不思議，
 　是出世間智，¶
 　捨二麁重故，
@@ -432,10 +344,7 @@ No.1586[No.1587;cf.No.1585]¶
 盡未來化有情類。其相云何？¶
 
 #+BEGIN_VERSE
-「:PROPERTIES:
-:head: 「３０
-:END:
-
+「* 「３０
 　此即無漏界，
 　不思議善常，¶
 　安樂解脫身，
