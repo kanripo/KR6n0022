@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 唯識三十論頌
+#+DATE: 2015-08-30 20:55:46.935361
+#+PROPERTY: JUAN 0
